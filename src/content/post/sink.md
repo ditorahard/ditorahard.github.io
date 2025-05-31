@@ -56,4 +56,4 @@ Site Token: `SinkCool`
 
 ---
 
-Finally, feel free to follow me on [Twitter](https://x.com/0xKaiBi) for updates on development progress and to share some web development news.
+Finally, feel free to follow me on [Linkedin](https://www.linkedin.com/in/anindito-rahardyaksa-06713853/) for updates on development progress and to share some web development news.

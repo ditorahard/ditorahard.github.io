@@ -1,36 +1,36 @@
 [
 	{
-		"name": "TempMail.Best",
-		"description": "Best Temporary Email.",
+		"name": "Legion Design System",
+		"description": "Design System for Telkom Group, won zeroheight's Design System Award.",
 		"image": "/assets/images/projects/tempmail.best.png",
-		"url": "https://tempmail.best"
+		"url": "https://legion.digitaltelkom.id"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
+		"name": "Legion AI",
+		"description": "AI chatbot building code using Legion design system components and patterns.",
 		"image": "/assets/images/projects/dns.surf.png",
 		"url": "https://dns.surf"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
+		"name": "Ruangkerja",
+		"description": "Corporate Learning Management System for Ruangguru B2B Clients.",
 		"image": "/assets/images/projects/html.zone.png",
 		"url": "https://html.zone"
 	},
 	{
-		"name": "Sink",
+		"name": "Stockbit",
 		"description": "A Simple / Speedy / Secure Link Shortener with Analytics.",
 		"image": "/assets/images/projects/sink.cool.png",
 		"url": "https://sink.cool"
 	},
 	{
-		"name": "BroadcastChannel",
+		"name": "Flip ID / Flip for Business",
 		"description": "Turn your Telegram Channel into a MicroBlog.",
 		"image": "/assets/images/projects/broadcast-channel.png",
 		"url": "https://github.com/ccbikai/BroadcastChannel"
 	},
 	{
-		"name": "L(O*62).ONG",
+		"name": "Netmonk Helpcenter",
 		"description": "Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger",
 		"image": "/assets/images/projects/long.png",
 		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong"
